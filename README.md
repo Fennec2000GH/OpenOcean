@@ -10,3 +10,4 @@
 1. `git clone https://github.com/Fennec2000GH/OpenOcean.git && cd ./OpenOcean` 
 2. `pip install -r requirements.txt`
 3. `cd ./flask/ && flask run` or just visit [OpenOcean Official Website](http://open-ocean.tech/)
+Note: Use the flask option right now as the website is under development by the hosting server.
